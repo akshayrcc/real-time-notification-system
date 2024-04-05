@@ -1,8 +1,8 @@
-## Real-Time Notification System with Node.js and TypeScript
+## Real-Time Notification System with RxJS, Node.js and TypeScript
 
 **Motivation**
 
-This project aims to build a real-time notification system using Node.js and TypeScript. This system will provide users with the following functionalities:
+This project aims to build a real-time notification system using RxJs, Node.js and TypeScript. This system will provide users with the following functionalities:
 
 - **User Subscriptions:** Users can subscribe to specific notification types, allowing customization based on their needs.
 - **Real-Time Delivery:** Notifications are delivered instantly as they occur, ensuring timely updates.
